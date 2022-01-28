@@ -1,0 +1,8 @@
+
+*.log
+*.log
+CatGame/Saved/Logs/CatGame.log
+CatGame/Saved/AutoScreenshot.png
+CatGame/Intermediate/CachedAssetRegistry.bin
+CatGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+CatGame/Saved/Config/CrashReportClient/UE4CC-Windows-32CEF01243879C38378C6FB94823EEA2/CrashReportClient.ini
